@@ -1,0 +1,6 @@
+[
+    {
+        "displayName": "Guest",
+        "vcard": "BEGIN:VCARD\nVERSION:3.0\nFN:Guest\nN:Guest;;;\nTEL;waid=621234567890:621234567890\nEMAIL;TYPE=WORK:your-email@example.com\nADR;TYPE=HOME:;;11 Naitōmachi;Shinjuku City;Tokyo 160-0014;Jepang\nURL;TYPE=WORK:https://www.khaliddesu.my.id\nORG:Science, Technology, Engineering\nTITLE:Science, Technology, Engineering\nNOTE:busy.\nEND:VCARD"
+    }
+]
