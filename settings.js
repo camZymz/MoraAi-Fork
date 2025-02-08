@@ -26,18 +26,18 @@ Thanks To :
 const fs = require('fs');
 const chalk = require('chalk');
 
-global.ytname = 'YouTube: ???'; // Nama YouTube Kamu
-global.socialm = 'GitHub: ???'; // Nama GitHub Kamu
+global.ytname = 'Tiktok: @camzym7'; // Nama YouTube Kamu
+global.socialm = 'GitHub: GitZymzz'; // Nama GitHub Kamu
 global.location = '11 Naitōmachi, Shinjuku City, Tokyo 160-0014, Jepang'; // Lokasi Kamu
 
-global.botName = 'Lunox-BotZ'; // Nama Bot Kamu
+global.botName = '𝙇𝙪𝙣𝙤𝙭-𝘽𝙤𝙩𝙕'; // Nama Bot Kamu
 global.ownerNumber = '6283853787611'; // Nomor Kamu
-global.ownerName = 'Zymzz'; // Nama Kamu
-global.website = 'https://chat.whatsapp.com/Jv5SIEQV3jNGpIvWy2lmSC'; // Web Kamu
+global.ownerName = '𝒁𝒚𝒎𝒛𝒛'; // Nama Kamu
+global.website = 'www.tiktok.com/@camzym7'; // Web Kamu
 global.wagc = 'https://chat.whatsapp.com/Jv5SIEQV3jNGpIvWy2lmSC'; // Web Kamu
 global.packname = botName; // Nama Pack
 global.author = ownerName; // Nama Author
-global.footer = '© Zymzz || Lunox';
+global.footer = '© 𝒁𝒚𝒎𝒛𝒛 || 𝙇𝙪𝙣𝙤𝙭';
 global.creator = '6283853787611@s.whatsapp.net'; // Nomor Creator
 global.premium = ['6283853787611']; // User Premium
 global.hituet = 0 // Hit Command
